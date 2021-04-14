@@ -19,5 +19,10 @@ Enter a value by left-clicking the square and entering an integer from 1-9 inclu
 
 If you want to see the solution, press s on the keyboard.
 
+Example of an empty Board
 <img width="412" alt="Board" src="https://user-images.githubusercontent.com/76454082/114672723-7337c780-9cd3-11eb-8264-98107de57558.png">
+
+Example of user inputs
+
+Example of a solved Board
 <img width="412" alt="Solved" src="https://user-images.githubusercontent.com/76454082/114672730-75018b00-9cd3-11eb-8765-4bf9df50a980.png">
