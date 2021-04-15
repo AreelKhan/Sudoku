@@ -1,5 +1,5 @@
 # Sudoku
-A Sudoku puzzle and integrated solver written using Pygame
+A **Sudoku puzzle** and integrated **Sudoku Solver** written using Pygame
 
 
 This project started off as an attempt at answering Leetcode 37.Sudoku Solver. 
