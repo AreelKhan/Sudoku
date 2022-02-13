@@ -12,10 +12,10 @@ There are three portions to this project. The sudoku game, the sudoku solver, an
 
 ## How to play:
 
-1. Run the SudokuGame.py file.
-2. A Sudoku GUI will pop-up
-3. Enter a value by left-clicking the square and entering an integer from 1-9 inclusive.
-4. If you want to see the solution, press s on the keyboard.
+1. un the SudokuGame.py file.
+2. A Sudoku GUI will pop-up.
+3. To enter a value left-click on the desired cell and enter an integer from 1-9 inclusive.
+4. To see the solution, press s on the keyboard.
 
 Example of an empty Board
 
