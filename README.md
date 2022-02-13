@@ -2,9 +2,7 @@
 A **Sudoku puzzle** and integrated **Sudoku Solver** written using Pygame
 
 ## Background:
-This project started off as an attempt at answering Leetcode 37.Sudoku Solver. 
-
-link: https://leetcode.com/problems/sudoku-solver/
+This project started off as an attempt at answering [Leetcode 37. Sudoku Solver.](https://leetcode.com/problems/sudoku-solver/) 
 
 I solved the problem using the Backtracking algorithm. Although I thought of many algorithms to solve a Sudoku board, the backtracking algorithm seemed the most efficient,
 elegant and easy to implement.
