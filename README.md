@@ -1,14 +1,14 @@
 # Sudoku
-A **Sudoku puzzle** and integrated **Sudoku Solver** written using Pygame
+A **Sudoku puzzle** and integrated **Sudoku Solver** written using PyGame
 
 ## Background:
 This project started off as an attempt at answering [Leetcode 37 Sudoku Solver.](https://leetcode.com/problems/sudoku-solver/) 
 
-I solved the problem using the Backtracking algorithm. Although I thought of many algorithms to solve a Sudoku board, the backtracking algorithm seemed the most efficient,
+I solved the problem using the Backtracking algorithm. Although I attmped many other algorithms to solve a Sudoku board, the backtracking algorithm seemed the most efficient,
 elegant and easy to implement.
 
 ## Description:
-There are two parts to this project. The sudoku game and the sudoku solver. The frontend is fairly simple, with the GUI of the game designed using a module called Pygame. In the backend, a request to the sugoku API generates a random sudoku board. The game is stored as a 2D array. The user can make inputs using the keyboard and mouse. When the use presses enter s on the keyboard. A solved version of the sudoku board is displayed. 
+There are three portions to this project. The sudoku game, the sudoku solver, and the generation of a feasible sudoku board. The frontend is fairly simple, with the GUI of the game designed using a module called Pygame. In the backend, a request to the sugoku API generates a random feasible sudoku board. The game is stored as a 2D array. The user can make inputs using the keyboard and mouse. When the use enters s on the keyboard. A solved version of the sudoku board is displayed. 
 
 ## How to play:
 
